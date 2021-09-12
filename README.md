@@ -1,7 +1,7 @@
 # bagleylab.github.io
 ====================
 
-This is the Bagley Lab website, hosted on GitHub Pages. This site was forked and modified from the Fraser Lab website located at [fraser-lab/fraser-lab.github.io](https://github.com/fraser-lab/fraser-lab.github.io) and is currently under development.
+This is the Bagley Lab website, hosted on [GitHub Pages](https://pages.github.com). This site was forked and modified from the Fraser Lab website located at [fraser-lab/fraser-lab.github.io](https://github.com/fraser-lab/fraser-lab.github.io) and is currently under development.
 
 Technologies this website uses:  
 
