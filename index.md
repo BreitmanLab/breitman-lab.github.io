@@ -1,19 +1,19 @@
 ---
-title: Fraser Lab
+title: Bagley Lab
 layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Welcome to the Bagley Lab!
 {: .display-4}
 <br>
-We are part of the [Department of Bioengineering and Therapeutic Sciences](http://bts.ucsf.edu/), the [Macromolecular Structure Group](http://msg.ucsf.edu/), and the [California Institute of Quantitative Biosciences (QB3)](http://qb3.org/).
+We are part of the [Department of Biology](http://www.jsu.edu/biology/) at [Jacksonville State University](http://jsu.edu), which is located in the Southern Appalachian Mountains of northern Alabama.
 {: .welcomefont}
 
-![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
+![Bagley Lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
 
-Research in the lab is focused on discovering the fundamental principles of macromolecular structure and dynamics.  We are interested in defining conformational states that are essential for function and understanding how conformational transitions couple to biological mechanisms.
+Research in the lab is broadly focused on integrating genomics, ecological data, and computer modeling to reconstruct the evolutionary histories of species and populations. Questions about species, their relationships, and their past, present, and future responses (e.g. distributional shifts) to climate change and human impacts are especially of interest. Current projects focus on conservation genomics, evolutionary ecology, phylogeography/phylogenomics, ecological niche modeling, and the genetic architecture of adaptation in terrestrial and aquatic ecosystems of North America and the Neotropics.
 {: .welcomefont}
 
-We are located in Genentech Hall at the Mission Bay Campus of UCSF.
+We are located in McGee Science Center, in the Science Complex at JSU.
 {: .welcomefont}
