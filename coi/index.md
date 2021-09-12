@@ -1,20 +1,18 @@
 ---
-title: James Fraser Conflicts of Interest
+title: Justin C. Bagley Conflicts of Interest
 layout: default
 group: coi
 ---
 
- I try to be as transparent as possible about my conflicts of interests. If these  conflicts cause an issue with the work or working relationship between me and a lab member, I want people to have those conversations with me early. My department chair would be a good person to talk to if you don’t feel comfortable talking to me about it directly.
+ I try to be as transparent as possible about my conflicts of interests (CoIs). I currently have no CoIs related to my research. My only conflicts relate to my biases related to academic appointments listed below. <!-- If these conflicts cause an issue with the work or working relationship between me and a lab member, I want people to have those conversations with me early. My department chair would be a good person to talk to if you don’t feel comfortable talking to me about it directly.-->
 
 Appointments:
-* Professor, [Department of Bioengineering and Therapeutic Sciences, Schools of Pharmacy and Medicine
-, University of California San Francisco](https://bts.ucsf.edu/)
-* Faculty Scientist,[Molecular Biophysics and Integrated Bioimaging, Lawrence Berkeley National Laboratory](https://biosciences.lbl.gov/divisions/mbib/)
-* Associate Director and Member, [Quantitative Biosciences Institute, University of California San Francisco](http://qbi.ucsf.edu/)
-* Associate Director, [Biophysics Graduate Program, University of California San Francisco](https://biophysics.ucsf.edu/)
-* Board Member and Vice President, [ASAPbio](https://asapbio.org/)
-* Advisory Council, [Arcadia Science](https://www.arcadia.science/) 
+* Assistant Professor, [Department of Biology, Jacksonville State University](http://www.jsu.edu/biology/)
+* Affiliate Researcher,[Department of Biology, Virginia Commonwealth University (Eckert Lab)](https://biology.vcu.edu)
+* Review Editor, [Frontiers in Ecology and Evolution](https://www.frontiersin.org/journals/ecology-and-evolution) journal
+* Scientist Member, [Institutional Review Board (IRB), Jacksonville State University](http://www.jsu.edu/academicaffairs/irb.html)
 
+<!--
 Equity:
 * [Relay Therapeutics](https://relaytx.com/)
 * Keyhole Therapeutics (co-founder)
@@ -30,3 +28,4 @@ Consulting/speaker fees/travel within last 2 years:
 Sponsored and Collaborative Research:
 * [Relay Therapeutics](https://relaytx.com/)
 * [Salesforce](https://www.salesforce.com/)
+-->
