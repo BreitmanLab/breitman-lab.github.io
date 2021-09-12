@@ -27,8 +27,8 @@ The Department of Biology offers a broad interdisciplinary graduate education in
 
 The following information is a summary and guide designed for graduate biology majors. The Graduate Catalog includes official policies and procedures concerning such topics as admission, curriculum, and graduation.
 
-Master of Science (Thesis track)
-Master of Science (Non-Thesis track)
+[Master of Science (Thesis track)](http://www.jsu.edu/biology/Thesis_check_sheet.pdf)
+[Master of Science (Non-Thesis track)](http://www.jsu.edu/biology/Non-Thesis_check_sheet.pdf)
 
 ## Postdoctoral Fellows
 
