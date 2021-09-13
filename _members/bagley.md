@@ -26,9 +26,9 @@ Justin is an evolutionary biologist focusing on problems in molecular ecology an
 
 Justin is a Review Editor for _Frontiers in Ecology and Evolution_ (since 2021) and regularly serves as a reviewer for _Systematic Biology_, _Molecular Ecology_, _Molecular Phylogenetics and Evolution_, _PeerJ_, _Proceedings of the Royal Society B_, and a dozen other journals in ecology and evolutionary biology.
 
+Justin's list of conflicts of interest (CoIs) is available [here](/coi)."
+---
+
 <!--
 <a href="/static/pdf/Bagley_CV_new_Aug1321.pdf">curriculum vitae <img src="/img/icons16/pdf-icon.png" alt="CV as pdf" /></a><br/> <a href="https://orcid.org">orcid</a>: <a href="https://orcid.org/0000-0001-6737-8380">0000-0001-6737-8380</a><br/> <a href="https://scholar.google.com/citations?user=H9FM85AAAAAJ&amp;hl=en&amp;oi=ao">google scholar</a><br/>
 -->
-
-Justin's list of conflicts of interest (CoIs) is available [here](/coi)."
----
