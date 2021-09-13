@@ -2,8 +2,8 @@
 name: Justin C. Bagley, Ph.D.
 startdate: 2020-08-13
 enddate:
-image: /static/img/members/Bagley.jpg
-# altimage: /static/img/members/Bagley_pb.jpg
+image: /static/img/members/bagley.png
+# altimage: /static/img/members/bagley_shadowborder.jpg
 position: Principal Investigator
 #current:
 pronouns: he/him/his
