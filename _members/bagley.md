@@ -10,7 +10,7 @@ pronouns: he/him/his
 email: jbagley (at) jsu.edu
 scholar: H9FM85AAAAAJ
 website: https://justinbagley.org
-UCSF: jbagley
+# UCSF: jbagley
 twitter: justincbagley
 linkedin: justincbagley
 github: justincbagley
