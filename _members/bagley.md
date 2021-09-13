@@ -2,8 +2,8 @@
 name: Justin C. Bagley, Ph.D.
 startdate: 2020-08-13
 enddate:
-image: /static/img/members/Bagley.jpg
-# altimage: /static/img/members/Bagley_pb.jpg
+image: /static/img/members/bagley.png
+# altimage: /static/img/members/bagley_shadowborder.jpg
 position: Principal Investigator
 #current:
 pronouns: he/him/his
@@ -30,5 +30,5 @@ Justin's list of conflicts of interest (CoIs) is available [here](/coi)."
 ---
 
 <!--
-<a href="/static/pdf/Bagley_CV_new_Aug1321.pdf">curriculum vitae <img src="/img/icons16/pdf-icon.png" alt="CV as pdf" /></a><br/> <a href="https://orcid.org">orcid</a>: <a href="https://orcid.org/0000-0001-6737-8380">0000-0001-6737-8380</a><br/> <a href="https://scholar.google.com/citations?user=H9FM85AAAAAJ&amp;hl=en&amp;oi=ao">google scholar</a><br/>
+<a href="/static/pdf/Bagley_CV_new_Aug1321.pdf">curriculum vitae<img src="/img/icons16/pdf-icon.png" alt="CV as pdf" /></a><br/> <a href="https://orcid.org">orcid</a>: <a href="https://orcid.org/0000-0001-6737-8380">0000-0001-6737-8380</a><br/> <a href="https://scholar.google.com/citations?user=H9FM85AAAAAJ&amp;hl=en&amp;oi=ao">google scholar</a><br/>
 -->
