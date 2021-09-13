@@ -15,11 +15,10 @@ email: cbraswell (at) stu.jsu.edu #Preferred public email address
 # linkedin: username
 # github: username
 # orcid: XXXX-XXXX-XXXX-XXXX
-description: "Christian was an undergraduate at The University of West Alabama, where he worked in the 
-lab of Dr. Michael Sandel on DNA sequencing, animal husbandry, and other projects (e.g. fieldwork, identification of freshwater fishes), and 
-where he also was the lead on the lab's outreach program. 
+description: "Christian was an undergraduate at [The University of West Alabama](https://www.uwa.edu), where he worked in [The Laboratory of Aquatic Evolution (LAQE)](https://www.sandellab.org) of [Dr. Michael Sandel]() on DNA sequencing, animal husbandry, and other projects (e.g. fieldwork, identification of freshwater fishes), and where he also was the lead on the lab's outreach program. 
 
-He recently moved to Jacksonville in 2021 to start his Master's studies in Biology here at JSU under Dr. Bagley. Christian is working 
+
+He recently moved to Jacksonville in 2021 to start his Master's studies in [Biology](http://www.jsu.edu/biology/) here at JSU under Dr. Bagley. Christian is working 
 on the conservation genomics of Blue Shiner (_Cyprinella caerulea_), a minnow species native to the Coosa and Cahaba drainages of the Mobile Basin in Alabama, as well as northwest Georgia and southeastern Tennessee. Blue Shiner are federally listed as a threatened species under the Endangered Species Act, and are of conservation concern due to pollution, sedimentation, and other human impacts. 
 "
 ---
