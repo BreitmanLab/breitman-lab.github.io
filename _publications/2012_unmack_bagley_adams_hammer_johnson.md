@@ -15,7 +15,7 @@ pdf: '/static/pdf/2012_unmack_bagley_adams_hammer_johnson.pdf'
 # github:
 # - code: EMRinger
 #   url: fraser-lab/EMRinger
-# links:
+links:
 - name: DOI
   url: https://doi.org/10.1371/journal.pone.0038433
 - name: PDF
