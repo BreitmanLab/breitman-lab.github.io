@@ -3,18 +3,16 @@ title: Contact
 ---
 
 
-### Contact the Fraser Lab
+### Contact the Bagley Lab
 
-James Fraser, Ph.D.
-Professor
-Department of Bioengineering and Therapeutic Sciences
-California Institute of Quantitative Biosciences (QB3)
+Justin C. Bagley, Ph.D.
+Assistant Professor
+Department of Biology
+Jacksonville State University
 
-email: jfraser (#!) fraserlab.com
-tel: 415 493 842 one
-fax: 415 514 016 nine
+email: jbagley (#!) jsu.edu
+tel: 256-782-864one
 
-Genentech Hall Room S472E (Office), S476 (Lab)
-UCSF Mail Code 2240
-600 16th Street
-San Francisco, CA 94158
+Martin Hall Rm 242 (Dept. Office), McGee Science Center 103 (Lab) 
+700 Pelham Rd N 
+Jacksonville, AL 36265 
