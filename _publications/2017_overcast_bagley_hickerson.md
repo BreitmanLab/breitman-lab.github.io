@@ -2,7 +2,7 @@
 title: "Strategies for improving approximate Bayesian computation tests for synchronous diversification."
 authors: "Overcast I, **Bagley JC**, Hickerson MJ."
 journal: 'BMC Evolutionary Biology'
-pub_date: '2016-09-01'
+pub_date: '2017-08-24'
 # vol_pages: 17, 2013
 image: '/static/img/pub/2017_overcast_bagley_hickerson.png'
 # pmid: '27988669'
