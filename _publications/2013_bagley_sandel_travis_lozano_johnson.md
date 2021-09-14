@@ -15,7 +15,7 @@ pdf: '/static/pdf/2013_bagley_sandel_travis_lozano_johnson.pdf'
 # github:
 # - code: EMRinger
 #   url: fraser-lab/EMRinger
-# links:
+links:
 - name: DOI
   url: https://doi.org/10.1186/1471-2148-13-223
 - name: PDF
