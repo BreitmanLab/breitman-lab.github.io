@@ -1,5 +1,5 @@
 ---
-title: "Molecular phylogeny and phylogeography of the Australian freshwater fish genus _Galaxiella_ (Teleostei: Galaxiidae), with an emphasis on dwarf galaxias (_G. pusilla_)"
+title: "Molecular phylogeny and phylogeography of the Australian freshwater fish genus _Galaxiella_ (Teleostei: Galaxiidae), with an emphasis on dwarf galaxias (_G. pusilla_)."
 authors: "Unmack PJ, **Bagley JC**, Adams MD, Hammer MD, Johnson JB."
 journal: 'PLoS One'
 pub_date: '2012'
