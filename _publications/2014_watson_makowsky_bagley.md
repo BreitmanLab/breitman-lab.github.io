@@ -5,8 +5,8 @@ journal: 'Journal of Evolutionary Biology'
 pub_date: '2014-11-03'
 # vol_pages: 27(12), 2767-2780
 image: '/static/img/pub/2014_watson_makowsky_bagley.png'
-pmid: '24967085'
-pmcid: 'PMC4063468'
+pmid: '25365910'
+# pmcid: 'PMC4063468'
 biorxiv: 
 pdf: '/static/pdf/2014_watson_makowsky_bagley.pdf'
 # pdbs:
