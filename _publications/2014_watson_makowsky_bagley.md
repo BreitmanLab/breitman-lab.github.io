@@ -2,7 +2,7 @@
 title: "Reproductive mode evolution in lizards revisited: updated analyses examining geographic, climatic and phylogenetic effects support the cold-climate hypothesis."
 authors: "Watson CM, Makowsky R, **Bagley JC**."
 journal: 'Journal of Evolutionary Biology'
-pub_date: '2014'
+pub_date: '2014-11-03'
 # vol_pages: 27(12), 2767-2780
 image: '/static/img/pub/2014_watson_makowsky_bagley.png'
 pmid: '24967085'
