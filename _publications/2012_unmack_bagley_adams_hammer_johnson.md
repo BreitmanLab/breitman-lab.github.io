@@ -2,7 +2,7 @@
 title: "Molecular phylogeny and phylogeography of the Australian freshwater fish genus _Galaxiella_ (Teleostei: Galaxiidae), with an emphasis on dwarf galaxias (_G. pusilla_)."
 authors: "Unmack PJ, **Bagley JC**, Adams MD, Hammer MD, Johnson JB."
 journal: 'PLoS One'
-pub_date: '2012'
+pub_date: '2012-06-05'
 # vol_pages: 7(6), e38433
 image: '/static/img/pub/2012_unmack_bagley_adams_hammer_johnson.png'
 # pmid: '27988669'
