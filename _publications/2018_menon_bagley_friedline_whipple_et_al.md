@@ -6,7 +6,7 @@ pub_date: '2018-02-07'
 # vol_pages: 27, 1245-1260
 image: '/static/img/pub/2018_menon_bagley_friedline_whipple_et_al.png'
 # alt image: 'image: '/static/img/pub/2018_menon_bagley_friedline_whipple_et_al_struct.png'
-pmid: '29411444'
+# pmid: '29411444'
 # pmcid: 'PMXXXXXXXX'
 biorxiv: 
 pdf: '/static/pdf/2018_menon_bagley_friedline_whipple_et_al.pdf'
