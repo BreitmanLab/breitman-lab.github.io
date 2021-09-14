@@ -14,8 +14,8 @@ We are the "Bagley Lab" or **Ecological and Evolutionary Genetics Laboratory (EE
 <!-- ![Bagley Lab logo](static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf){:style="max-width: 100%; height: auto;"} -->
 <!-- <div style="text-align:center">![Bagley Lab logo](static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf){:style="max-width: 100%; height: auto;"}</div> -->
 <!-- <p align="center"></p>-->
-<div style="text-align:center"><img src="static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf" alt="EEGL logo"/><!--</div>-->
-
+<!-- <div style="text-align:center"><img src="static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf" alt="EEGL logo"/> -->  <!--</div>-->
+  <p align=center"><img src="static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf" alt="EEGL logo"/></p>
 Research in the lab is broadly focused on integrating genomics, ecological data, and computer modeling to reconstruct the evolutionary histories of species and populations. Questions about species, their relationships, and their past, present, and future responses (e.g. distributional shifts) to climate change and human impacts are especially of interest. Current projects focus on conservation genomics, evolutionary ecology, phylogeography/phylogenomics, ecological niche modeling, and the genetic architecture of adaptation in terrestrial and aquatic ecosystems of North America and the Neotropics.
 {: .welcomefont}
 
