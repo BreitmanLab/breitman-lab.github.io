@@ -2,9 +2,10 @@
 title: "The role of hybridization during ecological divergence between southwestern white pine, _Pinus strobiformis_, and limber pine, _P. flexilis_."
 authors: "Menon M, **Bagley JC**, Friedline C, Whipple A, Schoettle A, Sáenz AL, Wehenkel CA, Flores-Renteria LH, Sneizko R, Cushman S, Waring K, Eckert AJ"
 journal: 'Molecular Ecology'
-pub_date: '2018'
+pub_date: '2018-02-07'
 # vol_pages: 27, 1245-1260
 image: '/static/img/pub/2018_menon_bagley_friedline_whipple_et_al.png'
+# alt image: 'image: '/static/img/pub/2018_menon_bagley_friedline_whipple_et_al_struct.png'
 pmid: '29411444'
 # pmcid: 'PMXXXXXXXX'
 biorxiv: 
