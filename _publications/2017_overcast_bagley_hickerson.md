@@ -5,8 +5,8 @@ journal: 'BMC Evolutionary Biology'
 pub_date: '2017-08-24'
 # vol_pages: 17, 2013
 image: '/static/img/pub/2017_overcast_bagley_hickerson.png'
-# pmid: '27988669'
-# pmcid: 'PMC4589481'
+pmid: '28836959'
+pmcid: 'PMC5571621'
 biorxiv: 
 pdf: '/static/pdf/2017_overcast_bagley_hickerson.pdf'
 # pdbs:
