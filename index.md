@@ -13,7 +13,7 @@ We are part of the [Department of Biology](http://www.jsu.edu/biology/) at [Jack
 <!-- ![Bagley Lab logo](static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf){:style="max-width: 100%; height: auto;"} -->
 <!-- <div style="text-align:center">![Bagley Lab logo](static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf){:style="max-width: 100%; height: auto;"}</div> -->
 <!-- <p align="center"></p>-->
-<!-- <div style="text-align:center"><img src="static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf" alt="EEGL logo"/> -->
+<div style="text-align:center"><img src="static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf" alt="EEGL logo"/>
 <!--
 <div class="row text-center">
   <img src="static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf" alt="EEGL logo">
