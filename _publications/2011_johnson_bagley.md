@@ -11,6 +11,6 @@ biorxiv:
 links:
 - name: Publisher
   url: https://press.uchicago.edu/ucp/books/book/chicago/E/bo11124183.html
-- name: Johnson Lab
+- name: Johnson Lab @ BYU
   url: https://biology.byu.edu/johnson-lab
 ---
