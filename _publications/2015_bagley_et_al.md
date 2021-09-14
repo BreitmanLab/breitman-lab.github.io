@@ -4,7 +4,7 @@ authors: "**Bagley JC**, Alda F, Breitman MF, van den Berghe EP, Bermingham E, J
 journal: 'PLoS One'
 pub_date: '2015-04-07'
 # vol_pages: 10(4), e0121139
-image: '/static/img/pub/2015_bagley_et_al.jpg'
+image: '/static/img/pub/2015_bagley_et_al.png'
 # pmid: '27988669'
 # pmcid: 'PMC4589481'
 biorxiv: 
@@ -20,4 +20,6 @@ links:
   url: https://doi.org/10.1371/journal.pone.0121139
 - name: HTML
   url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0121139
+- name: Johnson Lab @ BYU
+  url: https://biology.byu.edu/johnson-lab
 ---
