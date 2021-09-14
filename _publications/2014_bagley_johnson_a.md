@@ -2,7 +2,7 @@
 title: "Phylogeography of the lower Central American Neotropics: diversification between two continents and between two seas."
 authors: "**Bagley JC**, Johnson JB."
 journal: 'Biological Reviews'
-pub_date: '2013-10-09'
+pub_date: '2014-02-03'
 # vol_pages: 89(4), 767-790
 image: '/static/img/pub/2014_bagley_johnson_a.png'
 # pmid: '27988669'
