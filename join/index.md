@@ -9,7 +9,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 ##### Read more about [our lab compact and philosophy.](/compact/)
 
-We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (e.g. in academia, industry, or working for state wildlife and resource management agencies). We strive to provide excellent training across a wide range of organismal, computational, and experimentally oriented techniques. If you are interested in joining our please send your CV/Resumel to [Dr. Justin Bagley](/contact).
+We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (e.g. in academia, industry, or working for state wildlife and resource management agencies). We strive to provide excellent training across a wide range of organismal, computational, and experimentally oriented techniques. If you are interested in joining our please send your CV/Resume to [Dr. Justin Bagley](/contact).
 
 <!-- Currently we have **open positions** for people with the following skills:
 [Specialist](https://aprecruit.ucsf.edu/JPF03325) who will engage in research projects and also manage daily wet lab operations. -->
