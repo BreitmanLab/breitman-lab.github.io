@@ -2,7 +2,7 @@
 title: "Tracing the footprints of a moving hybrid zone under a demographic history of speciation with gene flow."
 authors: "Menon M, Landguth E, Saenz AL, **Bagley JC**, Schoettle A, Wehenkel CA, Cushman S, Waring K, Eckert AJ."
 journal: 'Evolutionary Applications'
-pub_date: '2019'
+pub_date: '2019-04-02'
 # vol_pages: 1-15
 image: '/static/img/pub/2019_menon_landguth_saenz_bagley_et_al.png'
 # pmid: 'XXXXXXXX'
