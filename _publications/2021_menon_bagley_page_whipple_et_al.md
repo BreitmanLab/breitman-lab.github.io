@@ -1,6 +1,6 @@
 ---
 title: "Adaptive evolution in a conifer hybrid zone is driven by a mosaic of introgressed and standing genetic variants."
-authors: "Menon M, **Bagley JC**, Page G, Whipple AV, Schoettle AW, Still C, Wehenkel C, Waring K, Flores-Rentería L, Cushman SA, Eckert AJ"
+authors: "Menon M, **Bagley JC**, Page G, Whipple AV, Schoettle AW, Still C, et al."
 journal: 'Communications Biology'
 pub_date: '2021-02-05'
 # vol_pages: Communications Biology volume 4, Article number: 160 (2021)
