@@ -5,8 +5,8 @@ journal: 'Diversity'
 pub_date: '2018-11-02'
 # vol_pages: 10, 120
 image: '/static/img/pub/2018_bagley_hickerson_johnson.png'
-pmid: '30013838'
-pmcid: 'PMC6035723'
+# pmid: '30013838'
+# pmcid: 'PMC6035723'
 biorxiv: 
 pdf: '/static/pdf/2018_bagley_hickerson_johnson.pdf'
 # pdbs:
