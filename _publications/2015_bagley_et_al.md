@@ -1,5 +1,5 @@
 ---
-title: "Photography-based taxonomy is inadequate, unnecessary, and potentially harmful for biological sciences."
+title: "Assessing species boundaries in a morphologically conserved group of Neotropical freshwater fishes, the _Poecilia sphenops_ species complex (Poeciliidae)."
 authors: "**Bagley JC**, Alda F, Breitman MF, van den Berghe EP, Bermingham E, Johnson JB."
 journal: 'PLoS One'
 pub_date: '2015-04-07'
