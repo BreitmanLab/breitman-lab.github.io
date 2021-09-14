@@ -8,7 +8,7 @@ image: '/static/img/pub/2011_bagley_mayden_roe_holznagel_harris.png'
 # pmid: '27988669'
 # pmcid: 'PMC4589481'
 biorxiv: 
-pdf: '/static/pdf/2016_ceriaco.pdf'
+pdf: '/static/pdf/2011_bagley_mayden_roe_holznagel_harris.pdf'
 # pdbs:
 # - 3J9I
 # - 3J9J
