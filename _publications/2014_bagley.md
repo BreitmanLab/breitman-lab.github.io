@@ -5,7 +5,7 @@ journal: 'Ph.D. Dissertation, Brigham Young University'
 pub_date: '2014-12-01'
 image: '/static/img/pub/2014_bagley_fig5.png'
 biorxiv: 
-pdf: '/static/pdf/2016_ceriaco.pdf'
+pdf: '/static/pdf/2014_bagley.pdf'
 links:
 - name: PDF
   url: https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=6295&amp;context=etd
