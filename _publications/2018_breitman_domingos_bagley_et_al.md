@@ -2,7 +2,7 @@
 title: "New species of _Enyalius_ (Squamata: Leiosauridae) endemic to the Brazilian Cerrado, with comments on how to improve the practice of taxonomy."
 authors: "Breitman MF, Domingos FMCB, **Bagley JC**, Wiederhecker HC, Ferrari TB, Cavalcante VHGL, et al."
 journal: 'Herpetologica'
-pub_date: '2016-09-01'
+pub_date: '2018-12-01'
 # vol_pages: 74(4), 355-369
 image: '/static/img/pub/2018_breitman_domingos_bagley_et_al.png'
 # pmid: '27988669'
