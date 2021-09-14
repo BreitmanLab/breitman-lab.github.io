@@ -2,13 +2,13 @@
 title: "Photography-based taxonomy is inadequate, unnecessary, and potentially harmful for biological sciences."
 authors: "**Bagley JC**, Alda F, Breitman MF, van den Berghe EP, Bermingham E, Johnson JB."
 journal: 'PLoS One'
-pub_date: '2015'
+pub_date: '2015-04-07'
 # vol_pages: 10(4), e0121139
-image: '/static/img/pub/2015_bagley.jpg'
+image: '/static/img/pub/2015_bagley_et_al.jpg'
 # pmid: '27988669'
 # pmcid: 'PMC4589481'
 biorxiv: 
-pdf: '/static/pdf/2015_bagley.pdf'
+pdf: '/static/pdf/2015_bagley_et_al.pdf'
 # pdbs:
 # - 3J9I
 # - 3J9J
