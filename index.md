@@ -6,7 +6,7 @@ group: home
 
 # Welcome to the Bagley Lab!
 {: .display-4}
-<br>
+<!--<br>-->
 We are the "Bagley Lab" or **Ecological and Evolutionary Genetics Laboratory (EEGL)** and we are part of the [Department of Biology](http://www.jsu.edu/biology/) at [Jacksonville State University](http://jsu.edu), which is located in the Southern Appalachian Mountains of northern Alabama.
 {: .welcomefont}
 
