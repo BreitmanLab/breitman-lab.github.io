@@ -9,13 +9,6 @@ group: home
 We are part of the [Department of Biology](http://www.jsu.edu/biology/) at [Jacksonville State University](http://jsu.edu), which is located in the Southern Appalachian Mountains of northern Alabama.
 {: .welcomefont}
 
-<!-- ![Bagley Lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"} -->
-![Bagley Lab logo](static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf){:style="max-width: 100%; height: auto; align: center;"}
-<!-- <div style="text-align:center">![Bagley Lab logo](static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf){:style="max-width: 100%; height: auto;"}</div> -->
-<!-- <p align="center"></p>-->
-<!-- working, but centers everything after:  <div style="text-align:center"><img src="static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf" alt="EEGL logo"/> -->
-<!-- working if on separate lines per tag:   <div class="row text-center"><img src="static/img/logo/eegl_logo_init_grayhex1b2coltree.pdf" alt="EEGL logo"></div>-->
-
 **Ecological and Evolutionary Genetics**
 {: .welcomefont}
 
