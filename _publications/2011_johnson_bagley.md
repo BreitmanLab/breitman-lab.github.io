@@ -1,5 +1,5 @@
 ---
-title: "Ecological drivers of life-history evolution. In: Ecology and evolution of poeciliid fishes."
+title: "Ecological drivers of life-history evolution. In: Ecology and Evolution of Poeciliid Fishes."
 authors: "Johnson JB, **Bagley JC**."
 journal: 'University of Chicago Press, Chicago, IL'
 pub_date: '2011'
