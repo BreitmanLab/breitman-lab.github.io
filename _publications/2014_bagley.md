@@ -11,6 +11,6 @@ links:
   url: https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=6295&amp;context=etd
 - name: HTML
   url: https://scholarsarchive.byu.edu/etd/5296/
-- name: Johnson Lab
+- name: Johnson Lab @ BYU
   url: https://biology.byu.edu/johnson-lab
 ---
