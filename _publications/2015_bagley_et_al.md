@@ -20,4 +20,6 @@ links:
   url: https://doi.org/10.1371/journal.pone.0121139
 - name: HTML
   url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0121139
+- name: Johnson Lab @ BYU
+  url: https://biology.byu.edu/johnson-lab
 ---
