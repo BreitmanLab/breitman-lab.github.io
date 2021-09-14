@@ -3,7 +3,7 @@ title: "Genotyping-by-sequencing and ecological niche modeling illuminate phylog
 authors: "**Bagley JC**, Uribe-Convers S, Carlsen M, Muchhala N."
 journal: 'Molecular Phylogenetics and Evolution'
 pub_date: '2020-04-23'
-# vol_pages: Volume 152, November 2020, 106769
+# vol_pages: Ecology and Evolution. 2020;10:4609–4629. 
 image: '/static/img/pub/2020_bagley_heming_gutierrez_et_al.png'
 pmid: '32551047'
 pmcid: 'PMC7297775'
