@@ -4,10 +4,16 @@ layout: default
 group: compact
 ---
 
-{% include carousel.html height="40" unit="%" duration="5" filter="img/members/drawings/members/" controlposition="90%" indicatorposition="90%" %}
+<!-- {% include carousel.html height="40" unit="%" duration="5" filter="img/members/drawings/members/" controlposition="90%" indicatorposition="90%" %} -->
 
 # Lab Compact and Philosophy
 <br/>
+
+This lab compact and philosophy statement outlines our mission statement, as well as our approach for conducting research and participating in the Bagley Lab while fostering a diverse and inclusive community where we strike a balance between career success and the basic aspects of well-being (e.g. mental health) needed to preserve our capacity to do, and indeed thrive in, our work. This statement draws on a growing [list of resources and similar statements from other labs](), which we will regularly revisit and reflect upon to improve this statement and our lab philosophy.
+
+## Mission Statement
+
+The goal of the Bagley Lab is to foster a community focused on excellence in research and outreach related to ecology and evolutionary biology, and in which everyone feels that they belong, everyone collaborates, and the way we do science and work towards career development really matters. 
 
 ## Overview
 The <a href="#mission">Fraser Lab Mission</a> is to do fantastic open science. We engage in a lot of <a href="#collaboration">collaborative</a> projects and strive for transparency in all things (see also our potential <a href="#coi">conflicts of interest</a>), but especially in our <a href="#publishing">publishing</a> practices. We believe great science is made possible by our <a href="#values">lab values</a> that heavily emphasize <a href="#mentorship">mentorship</a> and the <a href="#wellbeing">well-being</a> of every member of the lab. Sustaining a positive working environment involves conscientious <a href="#communication">communication</a> and bidirectional <a href="#feedback">feedback</a>, among other <a href="#expectations">general lab expectations</a>. These values also prompt us to <a href="#land_ack">acknowledge</a> that our institution was built on unceded Ramaytush Ohlone land. We take <a href="#career_dev">career development</a> seriously, which includes not only regular attendance at <a href="#conferences">conferences</a> but also making use of all the resources available to us both at UCSF and more broadly. In return, we take tracking and sharing our <a href="#data">data</a> very seriously. We are very fortunate to have access to an incredible wealth of scientific <a href="#literature">literature</a>, a strong track record of <a href="#grants">grant and fellowship funding</a>, and our amazing colleagues and core facilities at UCSF. Finally, this is a living document informed by a growing collection of external <a href="#resources">resources</a> — we aim to iteratively improve upon everything described here!
