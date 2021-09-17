@@ -5,16 +5,10 @@ enddate:
 image: /static/img/members/abernathy.jpg
 altimage: /static/img/members/abernathy_pb.jpg
 position: Undergraduate Student
-# subsequent:  update once you become an alumnus
 pronouns: she/her/hers
 email: aabernathy1 (at) stu.jsu.edu
-# scholar: XXXXXXXXXXXX
-# website: https://website.com/
-# UCSF: XXXXXXXX
 twitter: @aabernathy01
-# linkedin: username
 github: @aabernathy1
-# orcid: XXXX-XXXX-XXXX-XXXX
 description: "Ashylnn is a 2020 graduate of Oxford High School (Oxford, AL) and is currently a freshman undergraduate student at JSU, where she is double-majoring in Pre-Health Professional Biology and General Mathematics. She loves animals and the outdoors and is especially interested in learning more about genetics and integrative taxonomy of organisms. Ashlynn is assisting as we get several projects started in the lab.
 "
 ---
