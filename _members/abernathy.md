@@ -6,7 +6,7 @@ image: /static/img/members/abernathy.jpg
 altimage: /static/img/members/abernathy_pb.jpg
 position: Undergraduate Student
 # subsequent:  update once you become an alumnus
-pronouns: she/her/hers #personal pronouns
+pronouns: she/her/hers
 email: aabernathy1 (at) stu.jsu.edu
 # scholar: XXXXXXXXXXXX
 # website: https://website.com/
