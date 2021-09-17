@@ -8,9 +8,9 @@ position: Undergraduate Student
 # subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
 email: aabernathy1 (at) stu.jsu.edu #Preferred public email address
-# scholar: XXXXXXXXXXXX #Google Scholar User ID
+# scholar: XXXXXXXXXXXX
 # website: https://website.com/
-# UCSF: XXXXXXXX #UCSF Profile ID - Employees only
+# UCSF: XXXXXXXX
 twitter: @aabernathy01
 # linkedin: username
 github: @aabernathy1
