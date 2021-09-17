@@ -7,7 +7,7 @@ altimage: /static/img/members/abernathy_pb.jpg
 position: Undergraduate Student
 # subsequent:  update once you become an alumnus
 pronouns: she/her/hers #personal pronouns
-email: aabernathy1 (at) stu.jsu.edu #Preferred public email address
+email: aabernathy1 (at) stu.jsu.edu
 # scholar: XXXXXXXXXXXX
 # website: https://website.com/
 # UCSF: XXXXXXXX
