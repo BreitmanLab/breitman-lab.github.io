@@ -15,7 +15,7 @@ email: cbraswell (at) stu.jsu.edu #Preferred public email address
 # linkedin: username
 # github: username
 # orcid: XXXX-XXXX-XXXX-XXXX
-description: "Christian was an undergraduate at [The University of West Alabama](https://www.uwa.edu), where he worked in [The Laboratory of Aquatic Evolution (LAQE)](https://www.sandellab.org) of [Dr. Michael Sandel]() on DNA sequencing, animal husbandry, and other projects (e.g. fieldwork, identification, DNA barcoding, and phylogeography of freshwater fishes), and where he also was the lead on the lab's outreach program. 
+description: "Christian was an undergraduate at [The University of West Alabama](https://www.uwa.edu), where he worked in [The Laboratory of Aquatic Evolution (LAQE)](https://www.sandellab.org) of [Dr. Michael Sandel]() on DNA sequencing, animal husbandry, and other projects (e.g. fieldwork, identification, DNA barcoding, and phylogeography of freshwater fishes), and where he also directed the lab's outreach program. 
 
 
 He recently moved to Jacksonville in 2021 to start his Master's studies in [Biology](http://www.jsu.edu/biology/) here at JSU under Dr. Bagley. Christian is working 
