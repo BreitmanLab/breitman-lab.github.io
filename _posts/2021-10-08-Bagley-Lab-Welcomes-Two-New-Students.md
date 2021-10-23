@@ -9,7 +9,7 @@ This month, we welcomed two new undergraduate students to our group: Macee Glick
 
 Currently, they are participating in lab meetings and assisting with ongoing projects/project development. In lab meetings, we are reading about genomic reduction methods for NGS (e.g. ddRAD-seq, DArT-seq) and empirical applications of these methods to address questions in population genomics and phylogeography. 
 
-So, welcome to Macee and Kayla!
+It is great to have them starting their journeys in science with us and thinking about these methods. So, welcome to Macee and Kayla!
 
 ~J
 
