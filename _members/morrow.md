@@ -17,6 +17,6 @@ email: kmorrow5 (at) stu.jsu.edu
 # orcid: XXXX-XXXX-XXXX-XXXX
 description: "Kayla is currently a sophomore undergraduate student at JSU, where she is majoring in Biology. In the Bagley Lab, Kayla is interested in learning more about population genomics, hybridization, and the diversity of fishes. Kayla is assisting as we get several projects started in the lab.
 
-Outside of lab, Kayla enjoys being outdoors, modeling, and hanging out with friends and her dog, Titus.
-"
+
+Outside of lab, Kayla enjoys being outdoors, modeling, and hanging out with friends and her dog, Titus."
 ---
