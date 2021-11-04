@@ -13,6 +13,42 @@ Current research projects in the **"Bagley Lab"**, also known as the **Ecologica
 
 # Projects
 
+### Comparative phylogeography and phylogeographic meta-analyses
+
+<div class="col-md-7 order-md-1">
+
+We study phylogeography (evolutionary and geographic histories of genetic lineages within and among closely related species) at the single-species and comparative levels.
+In this field, we are working on novel empirical studies of freshwater fish phylogeography in North America and Brazil based on high-throughput sequence data (e.g. ddRAD-seq, DArT-seq), as well as synthetic comparative reviews of published phylogeographical literature in the context of regional ecological and geological settings. 
+We also have a new ongoing project in collaboration with [Fernando Alda's lab](http://fernandoalda.weebly.com) at UT-Knoxville that is focused on combining georeferenced legacy phylogeographic data (DNA sequence data, esp. mtDNA, available from online repositories) with environmental data to conduct regional and global meta-analyses of fish phylogeography. This exciting project is made possible through our collaboration on [PhylogatR](https://phylogatr.org), a project funded through NSF grants to [Bryan Carstens](https://carstenslab.osu.edu) and [Tara Pelletier](https://sites.google.com/site/taraapelletier/).
+
+</div>
+<div class="col-md-5 order-md-2 align-self-center">
+<img class="img-fluid" src="/static/img/PhylogatR_logo.png" alt="PhylogatR">
+<!-- <a href="https://phylogatr.org"><img class="inline-block navb-icon" src="/static/img/PhylogatR_logo.png" alt="PhylogatR logo"></a> -->
+
+</div>
+</div>
+<div class="row">
+
+
+### Conservation genomics
+
+<div class="col-md-7 order-md-1">
+
+Our expertise in population genomics and molecular and bioinformatics approaches for analyzing next-generation sequencing data places us in an excellent position to apply these cost-effective and informative tools to applied problems in conservation and management. 
+We are initiating a project on conservation genomics of Alabama's threatened and endangered minnow species, which was recently approved for funding from the Alabama Division of Wildlife and Freshwater Fisheries (DWFF).
+
+</div>
+<div class="col-md-5 order-md-2 align-self-center">
+<!--<img class="img-fluid" src="/static/img/Blue-shiner-joel-sartore-NGC_1.jpg" alt="Blue shiner, Cyprinella caerulea (Jordan 1877)"> -->
+<a href="https://www.outdooralabama.com/shiners/blue"><img class="inline-block navb-icon" src="/static/img/Blue-shiner-joel-sartore-NGC_1.jpg" alt="Blue shiner, Cyprinella caerulea (Jordan 1877)"></a>
+
+</div>
+</div>
+<div class="row">
+
+
+
 # Opportunities
 The Bagley Lab provides **opportunities** for students to engage in local and international research projects in ecological and evolutionary genetics employing cutting-edge techniques in **high-throughput sequencing** (grounded in bioinformatics) and **ecological modeling**. Research and internship opportunities for undergraduate students may focus on any of the following areas: 
 
