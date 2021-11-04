@@ -13,7 +13,7 @@ Current research projects in the **"Bagley Lab"**, also known as the **Ecologica
 
 # Projects
 
-</div>
+<br/>
 
 ### Comparative phylogeography and phylogeographic meta-analyses
 
@@ -21,13 +21,12 @@ Current research projects in the **"Bagley Lab"**, also known as the **Ecologica
 
 We study phylogeography (evolutionary and geographic histories of genetic lineages within and among closely related species) at the single-species and comparative levels.
 In this field, we are working on novel empirical studies of freshwater fish phylogeography in North America and Brazil based on high-throughput sequence data (e.g. ddRAD-seq, DArT-seq), as well as synthetic comparative reviews of published phylogeographical literature in the context of regional ecological and geological settings. 
-We also have a new ongoing project in collaboration with [Fernando Alda's lab](http://fernandoalda.weebly.com) at UT-Knoxville that is focused on combining georeferenced legacy phylogeographic data (DNA sequence data, esp. mtDNA, available from online repositories) with environmental data to conduct regional and global meta-analyses of fish phylogeography. This exciting project is made possible through our collaboration on [PhylogatR](https://phylogatr.org), a project funded through NSF grants to [Bryan Carstens](https://carstenslab.osu.edu) and [Tara Pelletier](https://sites.google.com/site/taraapelletier/).
+We also have a new ongoing project in collaboration with [Fernando Alda's lab](http://fernandoalda.weebly.com) at the University of Tennessee-Chattanooga that is focused on combining georeferenced legacy phylogeographic data (DNA sequence data, esp. mtDNA, available from online repositories) with environmental data to conduct regional and global meta-analyses of fish phylogeography. This exciting project is made possible through our collaboration on [PhylogatR](https://phylogatr.org), a project funded through NSF grants to [Bryan Carstens](https://carstenslab.osu.edu) and [Tara Pelletier](https://sites.google.com/site/taraapelletier/).
 
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/PhylogatR_logo.png" alt="PhylogatR">
 <!-- <a href="https://phylogatr.org"><img class="inline-block navb-icon" src="/static/img/PhylogatR_logo.png" alt="PhylogatR logo"></a> -->
-
 </div>
 </div>
 <div class="row">
@@ -44,7 +43,6 @@ We are initiating a project on conservation genomics of Alabama's threatened and
 <div class="col-md-5 order-md-2 align-self-center">
 <!--<img class="img-fluid" src="/static/img/Blue-shiner-joel-sartore-NGC_1.jpg" alt="Blue shiner, Cyprinella caerulea (Jordan 1877)"> -->
 <a href="https://www.outdooralabama.com/shiners/blue"><img class="inline-block navb-icon" src="/static/img/Blue-shiner-joel-sartore-NGC_1.jpg" alt="Blue shiner, Cyprinella caerulea (Jordan 1877)" with="400"></a>
-
 </div>
 </div>
 <div class="row">
