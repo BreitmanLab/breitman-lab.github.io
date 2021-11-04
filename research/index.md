@@ -43,7 +43,7 @@ We are initiating a project on conservation genomics of Alabama's threatened and
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
 <!--<img class="img-fluid" src="/static/img/Blue-shiner-joel-sartore-NGC_1.jpg" alt="Blue shiner, Cyprinella caerulea (Jordan 1877)"> -->
-<a href="https://www.outdooralabama.com/shiners/blue"><img class="inline-block navb-icon" src="/static/img/Blue-shiner-joel-sartore-NGC_1.jpg" alt="Blue shiner, Cyprinella caerulea (Jordan 1877)"></a>
+<a href="https://www.outdooralabama.com/shiners/blue"><img class="inline-block navb-icon" src="/static/img/Blue-shiner-joel-sartore-NGC_1.jpg" alt="Blue shiner, Cyprinella caerulea (Jordan 1877)" with="400"></a>
 
 </div>
 </div>
