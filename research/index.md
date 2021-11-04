@@ -11,9 +11,14 @@ We are **ecologists and evolutionary biologists** and our research focuses on in
 
 Current research projects in the **"Bagley Lab"**, also known as the **Ecological and Evolutionary Genetics Laboratory (EEGL)** at [JSU](http://jsu.edu), center on conservation genomics, phylogeography, phylogenomics, speciation/hybridization, and local adaptation genomics of North American and Neotropical plants and freshwater fishes. Projects are diverse, ranging from Andean bellflowers to central Brazilian fishes, and they are strongly focused on analyzing genomic data (e.g. ddRAD-seq, targeted sequence capture, and whole-genome sequence data) and species occurrences, although phenotypic data are also of interest. Questions about species, their relationships, and their past, present, and future responses (e.g. distributional shifts) to climate change and human impacts are especially of interest.
 
-# Projects
+<br>
+<br>
 
-<br/>
+</div>
+
+<div class="row">
+
+# Projects
 
 ### Comparative phylogeography and phylogeographic meta-analyses
 
