@@ -20,6 +20,10 @@ Current research projects in the **"Bagley Lab"**, also known as the **Ecologica
 
 # Projects
 
+</div>
+
+<div class="row">
+
 <br>
 <br>
 
