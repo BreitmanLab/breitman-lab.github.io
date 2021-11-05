@@ -20,6 +20,8 @@ Current research projects in the **"Bagley Lab"**, also known as the **Ecologica
 
 # Projects
 
+<br>
+
 ### Comparative phylogeography and phylogeographic meta-analyses
 
 <div class="col-md-7 order-md-1">
