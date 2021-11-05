@@ -34,7 +34,6 @@ We also have a new ongoing project in collaboration with [Fernando Alda's lab](h
 <div class="row">
 
 ### Conservation genomics
-<br>
 
 <div class="col-8 order-md-1">
 
