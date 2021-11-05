@@ -43,7 +43,7 @@ We are initiating a project on conservation genomics of Alabama's threatened and
 This project has two parts, one for each species. The species are the Blue Shiner (_Cyprinella caerulea_), which is restricted to the Coosa River system of the Mobile Basin, and the Cahaba Shiner (_Notropis cahabae_) native to the Cahaba River basin. Blue Shiner is pictured below.
 
 </div>
-<div class="col-4 order-md-2 align-self-center">
+<div class="col-4 align-self-center">
 <img class="img-fluid" src="/static/img/Shinerblue400A.jpg" alt="Blue Shiner">
 </div>
 </div>
