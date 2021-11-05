@@ -19,14 +19,14 @@ Current research projects in the **"Bagley Lab"**, also known as the **Ecologica
 
 ### Comparative phylogeography and phylogeographic meta-analyses
 
-<div class="col-md-7 order-md-1">
+<div class="col-8 order-md-1">
 
 We study phylogeography (evolutionary and geographic histories of genetic lineages within and among closely related species) at the single-species and comparative levels.
 In this field, we are working on novel empirical studies of freshwater fish phylogeography in North America and Brazil based on high-throughput sequence data (e.g. ddRAD-seq, DArT-seq), as well as synthetic comparative reviews of published phylogeographical literature in the context of regional ecological and geological settings. 
 We also have a new ongoing project in collaboration with [Fernando Alda's lab](http://fernandoalda.weebly.com) at the University of Tennessee-Chattanooga that is focused on combining georeferenced legacy phylogeographic data (DNA sequence data, esp. mtDNA, available from online repositories) with environmental data to conduct regional and global meta-analyses of fish phylogeography. This exciting project is made possible through our collaboration on [PhylogatR](https://phylogatr.org), a project funded through NSF grants to [Bryan Carstens](https://carstenslab.osu.edu) and [Tara Pelletier](https://sites.google.com/site/taraapelletier/).
 
 </div>
-<div class="col-md-5 order-md-2 align-self-center">
+<div class="col-4 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/PhylogatR_logo.png" alt="PhylogatR">
 </div>
 </div>
@@ -36,14 +36,14 @@ We also have a new ongoing project in collaboration with [Fernando Alda's lab](h
 ### Conservation genomics
 <br>
 
-<div class="col-md-7 order-md-1">
+<div class="col-8 order-md-1">
 
 Our expertise in population genomics and molecular and bioinformatics approaches for analyzing next-generation sequencing data places us in an excellent position to apply these cost-effective and informative tools to applied problems in conservation and management. 
 We are initiating a project on conservation genomics of Alabama's threatened and endangered minnow species, which was recently approved for funding from the Alabama Division of Wildlife and Freshwater Fisheries (DWFF). 
 This project has two parts, one for each species. The species are the Blue Shiner (_Cyprinella caerulea_), which is restricted to the Coosa River system of the Mobile Basin, and the Cahaba Shiner (_Notropis cahabae_) native to the Cahaba River basin. Blue Shiner is pictured below.
 
 </div>
-<div class="col-md-5 order-md-2 align-self-center">
+<div class="col-4 order-md-2 align-self-center">
 <img class="img-fluid" src="/static/img/Shinerblue400A.jpg" alt="Blue Shiner">
 </div>
 </div>
