@@ -46,7 +46,7 @@ We also have a new ongoing project in collaboration with [Fernando Alda's lab](h
 
 ### Conservation genomics
 
-<div class="col-md-7 order-md-1">
+<div class="col-md-7 order-md-2">
 
 Our expertise in population genomics and molecular and bioinformatics approaches for analyzing next-generation sequencing data places us in an excellent position to apply these cost-effective and informative tools to applied problems in conservation and management. 
 We are initiating a project on conservation genomics of Alabama's threatened and endangered minnow species, which was recently approved for funding from the Alabama Division of Wildlife and Freshwater Fisheries (DWFF). 
