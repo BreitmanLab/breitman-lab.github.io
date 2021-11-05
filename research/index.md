@@ -40,8 +40,8 @@ We also have a new ongoing project in collaboration with [Fernando Alda's lab](h
 Our expertise in population genomics and molecular and bioinformatics approaches for analyzing next-generation sequencing data places us in an excellent position to apply these cost-effective and informative tools to applied problems in conservation and management. 
 We are initiating a project on conservation genomics of Alabama's threatened and endangered minnow species, which was recently approved for funding from the Alabama Division of Wildlife and Freshwater Fisheries (DWFF). 
 This project has two parts, one for each species. The species are the Blue Shiner (_Cyprinella caerulea_), which is restricted to the Coosa River system of the Mobile Basin, and the Cahaba Shiner (_Notropis cahabae_) native to the Cahaba River basin. Blue Shiner is pictured below.
-</div>
 
+</div>
 <div class="col-md-5 order-md-1 align-self-center">
 <img class="img-fluid" src="/static/img/Shinerblue400A.jpg" alt="Blue Shiner">
 </div>
