@@ -34,8 +34,8 @@ We also have a new ongoing project in collaboration with [Fernando Alda's lab](h
 <!-- <a href="https://phylogatr.org"><img class="inline-block navb-icon" src="/static/img/PhylogatR_logo.png" alt="PhylogatR logo"></a> -->
 </div>
 </div>
-<div class="row">
 
+<div class="row">
 
 ### Conservation genomics
 
@@ -47,14 +47,14 @@ We are initiating a project on conservation genomics of Alabama's threatened and
 </div>
 <div class="col-md-5 order-md-2 align-self-center">
 <!--<img class="img-fluid" src="/static/img/Blue-shiner-joel-sartore-NGC_1.jpg" alt="Blue shiner, Cyprinella caerulea (Jordan 1877)"> -->
-<a href="https://www.outdooralabama.com/shiners/blue"><img class="inline-block navb-icon" src="/static/img/Blue-shiner-joel-sartore-NGC_1.jpg" alt="Blue shiner, Cyprinella caerulea (Jordan 1877)" with="400"></a>
+<a href="https://www.outdooralabama.com/shiners/blue"><img class="inline-block navb-icon" src="/static/img/Blue-shiner-joel-sartore-NGC_1.jpg" alt="Blue shiner, Cyprinella caerulea (Jordan 1877)" with="502" height="334"></a>
 </div>
 </div>
+
 <div class="row">
 
-
-
 # Opportunities
+
 The Bagley Lab provides **opportunities** for students to engage in local and international research projects in ecological and evolutionary genetics employing cutting-edge techniques in **high-throughput sequencing** (grounded in bioinformatics) and **ecological modeling**. Research and internship opportunities for undergraduate students may focus on any of the following areas: 
 
 -   applying techniques in ichthyology and genetic analysis to the assessment and conservation of native Alabama freshwater fish biodiversity; 
