@@ -49,10 +49,24 @@ through NSF grants to [Bryan Carstens](https://carstenslab.osu.edu) and [Tara Pe
 <!--
 <p align="center">
 	<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.6214"> # BETTER URL (link to full text):  http://bagleylab.com/static/pdf/2020_bagley_heming_gutierrez_et_al.pdf
-	<img class="img-fluid" src="/static/img/aspen_popstruct_fig1.png" alt="GBS phylogeography of quaking aspen (Populus tremuloides; Bagley et al. 2020)" width="450"></a>
+	<img class="img-fluid" src="/static/img/aspen_popstruct_fig1.png" alt="GBS phylogeography of quaking aspen (Populus tremuloides; Bagley et al. 2020)." width="450"></a>
 </p>
 
 -->
+
+<div class="row">
+
+### Single-species phylogeography and demography
+
+Whereas comparative phylogeography (mentioned _above_) can tell us about broad-scale patterns of evolution of species in a region, comparative studies rely on scaling up from many studies of individual species. These single-species phylogeography studies each tell us about the spatial-demographic histories of a different species or group (including metazoa and viruses). We have been working on phylogeography of terrestrial and aquatic ecosystems of temperate and Neotropical areas for over 15 years. While Dr. Bagley's dissertation work focused on phylogeography and species delimitation in Central American freshwater fishes, our work looking at the histories of individual species has focused more recently on individual forest trees such as quaking aspen (_Populus tremuloides_) and pines (genus _Pinus_), and now that we are located back in Alabama our lab focus is shifting primarily to using phylogeography approaches combined with ecological niche modeling to understand evolutionary processes in species from the North American southeast (a known aquatic biodiversity 'hotspot'). We also have quite a bit of data on the phylogeography of fishes from the Brazilian Cerrado 'hotspot' that we are working to publish.
+
+<p align="center">
+	<a href="http://bagleylab.com/static/pdf/2020_bagley_heming_gutierrez_et_al.pdf">
+	<img class="img-fluid" src="/static/img/aspen_fig1_pop_struct.png" alt="Quaking aspen phylogeography and population structure (Bagley et al. 2020)." width="450"></a>
+</p>
+
+</div>
+
 
 ### Conservation genomics
 
@@ -91,7 +105,7 @@ squamate reptiles. Recent <a href="http://bagleylab.com/publications/">papers</a
 
 <p align="center">
 	<a href="http://bagleylab.com/static/pdf/2020_bagley_uribeconvers_carlsen_muchhala.pdf">
-	<img class="img-fluid" src="/static/img/burmeistera_PI.png" alt="Burmeistera time tree and phylogenetic informativeness (Bagley et al. 2020)" width="450"></a>
+	<img class="img-fluid" src="/static/img/burmeistera_PI.png" alt="Burmeistera time tree and phylogenetic informativeness (Bagley et al. 2020)." width="450"></a>
 </p>
 
 </div>
