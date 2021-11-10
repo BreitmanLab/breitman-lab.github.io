@@ -102,7 +102,7 @@ squamate reptiles. Recent <a href="http://bagleylab.com/publications/">papers</a
 
 ### Phylogeography of temperate and Neotropical plants and animals
 
-<!-- We have been working on phylogeography of temperate and Neotropical freshwater fishes (Brazilian Cerrado and Mesoamerica hotspots, plus North American southeast) and plants (e.g. forest trees) for the last 15 years. -->
+We have been working on phylogeography of temperate and Neotropical freshwater fishes (Brazilian Cerrado and Mesoamerica hotspots, plus North American southeast) and plants (e.g. forest trees) for the last 15 years.
 
 <a href="https://justinbagley.org/pages/phylogeog.html">Phylogeography</a>, the study of the geographical distributions of genetic lineages within and among closely 
 related species, has assumed a central role in molecular ecology 
