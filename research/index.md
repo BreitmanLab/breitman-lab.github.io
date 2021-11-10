@@ -7,9 +7,17 @@ group: research
 <div class="row">
 
 # Our research
-We are **ecologists and evolutionary biologists** and our research focuses on integrating genomics, ecological data, and computer modeling to reconstruct the evolutionary histories of species and populations. This work addresses basic questions (e.g. _“Why are there so many species?”_, _"How do species adapt to their environment?"_) and applied questions (e.g. _“How do we delimit and monitor species?”_) about the ecology and evolution of freshwater and terrestrial organisms. Our research on evolutionary processes in biodiversity 'hotspots' (e.g. defined [here](https://www.nature.com/articles/35002501)) takes us across the Americas, from the southeastern US to Central America and South America. 
+We are **ecologists and evolutionary biologists** and our research focuses on integrating genomics, ecological data, and computer modeling to reconstruct the evolutionary 
+histories of species and populations. This work addresses basic questions (e.g. _“Why are there so many species?”_, _"How do species adapt to their environment?"_) and 
+applied questions (e.g. _“How do we delimit and monitor species?”_) about the ecology and evolution of freshwater and terrestrial organisms. Our research on evolutionary 
+processes in biodiversity 'hotspots' (e.g. defined [here](https://www.nature.com/articles/35002501)) takes us across the Americas, from the southeastern US to Central 
+America and South America. 
 
-Current research projects in the **"Bagley Lab"**, also known as the **Ecological and Evolutionary Genetics Laboratory (EEGL)** at [JSU](http://jsu.edu), center on conservation genomics, phylogeography, phylogenomics, speciation/hybridization, and local adaptation genomics of North American and Neotropical plants and freshwater fishes. Projects are diverse, ranging from Andean bellflowers to central Brazilian fishes, and they are strongly focused on analyzing genomic data (e.g. ddRAD-seq, targeted sequence capture, and whole-genome sequence data) and species occurrences, although phenotypic data are also of interest. Questions about species, their relationships, and their past, present, and future responses (e.g. distributional shifts) to climate change and human impacts are especially of interest.
+Current research projects in the **"Bagley Lab"**, also known as the **Ecological and Evolutionary Genetics Laboratory (EEGL)** at [JSU](http://jsu.edu), center on 
+conservation genomics, phylogeography, phylogenomics, speciation/hybridization, and local adaptation genomics of North American and Neotropical plants and freshwater 
+fishes. While our main area of organismal expertise is ichthyology and most projects focus on fishes, projects are diverse, ranging from Andean bellflowers to central Brazilian fishes, and they are strongly focused on analyzing genomic data (e.g. ddRAD-seq, 
+targeted sequence capture, and whole-genome sequence data) and species occurrences, although phenotypic data are also of interest. Questions about species, their 
+relationships, and their past, present, and future responses (e.g. distributional shifts) to climate change and human impacts are especially of interest.
 <br>
 <br>
 
@@ -19,9 +27,13 @@ Current research projects in the **"Bagley Lab"**, also known as the **Ecologica
 
 ### Comparative phylogeography and phylogeographic meta-analyses
 
-We study phylogeography (evolutionary and geographic histories of genetic lineages within and among closely related species) at the single-species and comparative levels.
-In this field, we are working on novel empirical studies of freshwater fish phylogeography in North America and Brazil based on high-throughput sequence data (e.g. ddRAD-seq, DArT-seq), as well as synthetic comparative reviews of published phylogeographical literature in the context of regional ecological and geological settings. 
-We also have a new ongoing project in collaboration with [Fernando Alda's lab](http://fernandoalda.weebly.com) at the University of Tennessee-Chattanooga that is focused on combining georeferenced legacy phylogeographic data (DNA sequence data, esp. mtDNA, available from online repositories) with environmental data to conduct regional and global meta-analyses of fish phylogeography. This exciting project is made possible through our collaboration on [PhylogatR](https://phylogatr.org), a project funded through NSF grants to [Bryan Carstens](https://carstenslab.osu.edu) and [Tara Pelletier](https://sites.google.com/site/taraapelletier/).
+We study <a href="https://justinbagley.org/pages/phylogeog.html">phylogeography</a> (evolutionary and geographic histories of genetic lineages within and among closely related species) at the single-species and comparative levels.
+In this field, we are working on novel empirical studies of freshwater fish phylogeography in North America and Brazil based on high-throughput sequence data (e.g. 
+ddRAD-seq, DArT-seq), as well as synthetic comparative reviews of published phylogeographical literature in the context of regional ecological and geological settings. 
+We also have a new ongoing project in collaboration with [Fernando Alda's lab](http://fernandoalda.weebly.com) at the University of Tennessee-Chattanooga that is focused 
+on combining georeferenced legacy phylogeographic data (DNA sequence data, esp. mtDNA, available from online repositories) with environmental data to conduct regional and 
+global meta-analyses of fish phylogeography. This exciting project is made possible through our collaboration on [PhylogatR](https://phylogatr.org), a project funded 
+through NSF grants to [Bryan Carstens](https://carstenslab.osu.edu) and [Tara Pelletier](https://sites.google.com/site/taraapelletier/).
 
 <p align="center">
 	<a href="https://phylogatr.org">
@@ -32,11 +44,26 @@ We also have a new ongoing project in collaboration with [Fernando Alda's lab](h
 
 <div class="row">
 
+<!-- #### Single-species phylogeography -->
+<!-- # aspen_popstruct_fig1.png -->
+<!--
+<p align="center">
+	<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.6214"> # BETTER URL (link to full text):  http://bagleylab.com/static/pdf/2020_bagley_heming_gutierrez_et_al.pdf
+	<img class="img-fluid" src="/static/img/aspen_popstruct_fig1.png" alt="GBS phylogeography of quaking aspen (Populus tremuloides; Bagley et al. 2020)" width="450"></a>
+</p>
+
+-->
+
 ### Conservation genomics
 
-Our expertise in population genomics and molecular and bioinformatics approaches for analyzing next-generation sequencing data places us in an excellent position to apply these cost-effective and informative tools to applied problems in conservation and management. 
-We are initiating a project on conservation genomics of Alabama's threatened and endangered minnow species, which was recently approved for funding from the Alabama Division of Wildlife and Freshwater Fisheries (DWFF). 
-This project has two parts, one for each species. The species are the Blue Shiner (_Cyprinella caerulea_), which is restricted to the Coosa River system of the Mobile Basin, and the Cahaba Shiner (_Notropis cahabae_) native to the Cahaba River basin. Blue Shiner is pictured below.
+Our expertise in population genomics and molecular and bioinformatics approaches for analyzing next-generation sequencing data places us in an excellent position to 
+apply these cost-effective and informative tools to applied problems in conservation and management. 
+We are initiating a project on conservation genomics of Alabama's threatened and endangered minnow species, which was recently approved for funding from the Alabama 
+Division of Wildlife and Freshwater Fisheries (DWFF). 
+This project has two parts, one for each species. The species are the <a href="https://www.outdooralabama.com/shiners/blue">Blue Shiner (_Cyprinella caerulea_)</a>, which 
+is restricted to the Coosa River system of the 
+Mobile Basin, and the <a href="https://www.outdooralabama.com/shiners/cahaba">Cahaba Shiner (_Notropis cahabae_)</a> native to the Cahaba River basin. Blue Shiner is 
+pictured below (_Photo courtesy of Dr. Pat O'Neil, GSA_).
 
 <p align="center">
 	<a href="https://www.outdooralabama.com/shiners/blue">
@@ -46,3 +73,67 @@ This project has two parts, one for each species. The species are the Blue Shine
 </div>
 
 
+<div class="row">
+
+### Phylogenomics & species delimitation
+
+Lab research in systematics and taxonomy primarily focuses on discovering and determining evolutionary relationships among species, and clarifying species 
+limits, through analyses of DNA sequence data and morphological characters. Hypotheses of phylogenetic relationships are reconstructed based on broad taxon and character 
+sampling using maximum-likelihood and Bayesian inference analyses, relaxed molecular clocks, clock-partitioning schemes, and tip- and fossil-calibrated models (e.g. 
+fossilized birth-death process). Our work also seeks to describe new biodiversity to improve biodiversity accounting. This work focuses on understanding diversification 
+and the evolution of adaptive traits (e.g. reproductive mode) in monophyletic clades of temperate and Neotropical plants (bellflowers, pines), freshwater fishes, and 
+squamate reptiles. Recent <a href="http://bagleylab.com/publications/">papers</a> focused on
+
+-   Describing two new species of suckermouth armored catfishes (Loricariidae) from central Brazil
+-   Phylogenomics of recent, rapid angiosperm radiations with Andean-centered distributions, using _Burmeistera_ (Campanulaceae) as a case study
+-   Tailless leaf-nosed _Anoura_ bats that pollinate _Burmeistera_ bellflowers
+-   Integrating molecules, morphology, and fossils to infer relationships among North American 'sucker' fishes (Catostomidae)
+
+<p align="center">
+	<a href="http://bagleylab.com/static/pdf/2020_bagley_uribeconvers_carlsen_muchhala.pdf">
+	<img class="img-fluid" src="/static/img/burmeistera_PI.png" alt="Burmeistera time tree and phylogenetic informativeness (Bagley et al. 2020)" width="450"></a>
+</p>
+
+</div>
+
+
+<!--
+><div class="row">
+
+### Phylogeography of temperate and Neotropical plants and animals
+
+<!-- We have been working on phylogeography of temperate and Neotropical freshwater fishes (Brazilian Cerrado and Mesoamerica hotspots, plus North American southeast) and plants (e.g. forest trees) for the last 15 years. -->
+
+<a href="https://justinbagley.org/pages/phylogeog.html">Phylogeography</a>, the study of the geographical distributions of genetic lineages within and among closely 
+related species, has assumed a central role in molecular ecology 
+for inferring the historical and ecological processes influencing present-day biodiversity patterns. Along with collaborators from the U.S., Brazil, and Mexico, Dr. Bagley has 
+been involved in a number of projects using single-species and comparative (multispecies) phylogeography approaches to improve our understanding of the diversification, 
+stability, and assembly of North American and Neotropical biotic communities over the last 15 years. 
+
+This work currently focuses on terrestrial and aquatic ecosystems of three intriguing systems that present different contexts for 
+understanding evolutionary processes: 1) North American southeast (an aquatic biodiversity hotspot) and the 2) Mesoamerica (Central America) and 3) Brazilian Cerrado 
+biodiversity 'hotspots'.
+
+<p align="center">
+	<a href="https://www.outdooralabama.com/shiners/blue">
+	<img class="img-fluid" src="/static/img/Shinerblue400A.jpg" alt="Blue Shiner" width="450"></a>
+</p>
+
+</div>
+
+-->
+
+<div class="row">
+
+### Genomics of speciation & local adaptation, with implications for climate change
+
+Understanding how barriers to gene flow arise, and new species boundaries are formed and maintained, is a central goal of evolutionary biology. Yet, the study of 'speciation', presents numerous challenges and requires integrative perspectives taking into account geographical factors (biogeography) and range dynamics, niche evolution, reproductive isolation, as well as the evolution of neutral and adaptive genetic variation in the context of demographic history. We have become interested for several years now in the ways in which plant versus animal systems can reveal different aspects of the speciation process.
+
+Our recent and on-going projects on southwestern white pine (_Pinus strobiformis_) highlight the role of hybridization and extrinsic factors during ecological speciation. We are also using genome scan and environmental association analyses to understand local adaptation to climatic gradients and challenging environments (high elevation) in this system, with important implications for understanding tree responses to climate change. By contrast, some Neotropical fish lineages that Dr. Bagley has studied (e.g. livebearers; Poeciliidae) are more predisposed to speciation through intrinsic pre- or postmating isolation, and exhibit presumed niche conservatism but a high degree of phenotypic variation. We are eager to develop future projects expanding our speciation and adaptation work along these two avenues of research.
+
+<p align="center">
+	<a href="http://bagleylab.com/static/pdf/2018_menon_bagley_friedline_whipple_et_al.pdf">
+	<img class="img-fluid" src="/static/img/swwp_figb_pop_struct.png" alt="Southwestern white pine hybrid zone and genetic structure (Menon et al. 2018)." width="450"></a>
+</p>
+
+</div>
