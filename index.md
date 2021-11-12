@@ -9,7 +9,7 @@ group: home
 We are part of the [Department of Biology](http://www.jsu.edu/biology/) at [Jacksonville State University](http://jsu.edu), which is located in the Southern Appalachian Mountains of northern Alabama.
 {: .welcomefont}
 
-![Bagley Lab logo](static/img/logo/Bagley_Lab_dna_terr_aquat_gbb_trans.png){:style="max-width: 100%; height: auto;"}
+![Bagley Lab logo](static/img/logo/Bagley_Lab_dna_terr_aquat_gbb_trans_216x207.5mm.svg){:style="max-width: 90%; height: auto;"}
 
 <!-- **Ecological and Evolutionary Genetics** -->
 {: .welcomefont}
