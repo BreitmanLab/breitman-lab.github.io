@@ -13,7 +13,7 @@ applied questions (e.g. _“How do we delimit and monitor species?”_) about th
 processes in biodiversity 'hotspots' (e.g. defined [here](https://www.nature.com/articles/35002501)) takes us across the Americas, from the southeastern US to Central 
 America and South America. 
 
-Current research projects in the **"Bagley Lab"**, also known as the **Ecological and Evolutionary Genetics Laboratory (EEGL)** at [JSU](http://jsu.edu), center on 
+Current research projects in the **"Bagley Lab"**, also known as the Ecological and Evolutionary Genetics Laboratory (EEGL) at [JSU](http://jsu.edu), center on 
 conservation genomics, phylogeography, phylogenomics, speciation/hybridization, and local adaptation genomics of North American and Neotropical plants and freshwater 
 fishes. While our main area of organismal expertise is ichthyology and most projects focus on fishes, projects are diverse, ranging from Andean bellflowers to central Brazilian fishes, and they are strongly focused on analyzing genomic data (e.g. ddRAD-seq, 
 targeted sequence capture, and whole-genome sequence data) and species occurrences, although phenotypic data are also of interest. Questions about species, their 
@@ -68,7 +68,7 @@ Whereas comparative phylogeography (mentioned _above_) can tell us about broad-s
 </div>
 
 
-### Conservation genomics
+<!-- ### Conservation genomics
 
 Our expertise in population genomics and molecular and bioinformatics approaches for analyzing next-generation sequencing data places us in an excellent position to 
 apply these cost-effective and informative tools to applied problems in conservation and management. 
@@ -85,7 +85,7 @@ pictured below (_Photo courtesy of Dr. Pat O'Neil, GSA_).
 </p>
 
 </div>
-
+-->
 
 <div class="row">
 
@@ -151,3 +151,38 @@ Our recent and on-going projects on southwestern white pine (_Pinus strobiformis
 </p>
 
 </div>
+
+
+
+<div class="row">
+
+# Applied research
+While the lab has worked on a variety of organisms and a variety of 'pure'-science questions (e.g. projects above), we are also fundamentally interested in conducting applied research into questions of relevance to the biological assessment (e.g. biomonitoring, fisheries research), community ecology, and conservation of the diverse fish assemblages of Alabama and the southeastern US. We are working with state agencies to develop projects in this applied arena. Currently, we are most interested in 
+
+-   Applying our expertise in phylogeography and genomics to conservation issues, e.g. see Conservation genomics project(s) below
+-   Development of wadeable and non-wadeable Index of Biotic Integrity (IBI) approaches for assessing state/regional waters
+-   Environmental DNA (eDNA) metabarcoding of freshwater rivers and streams of Alabama and surrounding areas (e.g. Mobile basin extensions into Mississippi and Georgia)
+
+### Conservation genomics
+
+Our expertise in population genomics and molecular and bioinformatics approaches for analyzing next-generation sequencing data places us in an excellent position to 
+apply these cost-effective and informative tools to applied problems in conservation and management. 
+We are initiating a project on conservation genomics of Alabama's threatened and endangered minnow species, which was recently approved for funding from the Alabama 
+Division of Wildlife and Freshwater Fisheries (DWFF). 
+This project has two parts, one for each species. The species are the <a href="https://www.outdooralabama.com/shiners/blue">Blue Shiner (_Cyprinella caerulea_)</a>, which 
+is restricted to the Coosa River system of the 
+Mobile Basin, and the <a href="https://www.outdooralabama.com/shiners/cahaba">Cahaba Shiner (_Notropis cahabae_)</a> native to the Cahaba River basin. Blue Shiner is 
+pictured below (_Photo courtesy of Dr. Pat O'Neil, GSA_).
+
+<p align="center">
+	<a href="https://www.outdooralabama.com/shiners/blue">
+	<img class="img-fluid" src="/static/img/Shinerblue400A.jpg" alt="Blue Shiner" width="450"></a>
+</p>
+
+</div>
+
+<br>
+<br>
+
+</div>
+
