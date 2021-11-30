@@ -33,7 +33,7 @@ ddRAD-seq, DArT-seq), as well as synthetic comparative reviews of published phyl
 We also have a new ongoing project in collaboration with [Fernando Alda's lab](http://fernandoalda.weebly.com) at the University of Tennessee-Chattanooga that is focused 
 on combining georeferenced legacy phylogeographic data (DNA sequence data, esp. mtDNA, available from online repositories) with environmental data to conduct regional and 
 global meta-analyses of fish phylogeography. This exciting project is made possible through our collaboration on [PhylogatR](https://phylogatr.org), a project funded 
-through NSF grants to [Bryan Carstens](https://carstenslab.osu.edu) and [Tara Pelletier](https://sites.google.com/site/taraapelletier/).
+through an NSF grant to [Bryan Carstens](https://carstenslab.osu.edu) and [Tara Pelletier](https://sites.google.com/site/taraapelletier/).
 
 <p align="center">
 	<a href="https://phylogatr.org">
