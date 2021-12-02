@@ -201,7 +201,8 @@ pictured below (_Photo courtesy of Dr. Pat O'Neil, GSA_).
 
 ### Ecological niche modeling (ENM) of species responses to climate change
 
-We are interested in applications of niche theory to questions about the actual and potential distributions of species in the past, present, and future, through ecological niche modeling (ENM). 
+We are interested in applications of niche theory to questions about the actual and potential distributions of species in the past, present, and future, through [ecological niche modeling (ENM)](https://www.youtube.com/watch?v=NGGOfHKISZY) 
+(also see [this book](https://press.princeton.edu/books/paperback/9780691136882/ecological-niches-and-geographic-distributions-mpb-49)). 
 The ENM approach has many applications, and those that we find most exciting include its uses for predicting species responses to global climate change (GCC) and biodiversity assessment/accounting. 
 Currently, Dr. Bagley has an ongoing project with students in his Ecology CURE course and in the Bagley Lab to predict the responses of Alabama's coastal dune plant species to GCC. We are reconstructing 
 the niches and predicting present and future distributions (under climate and carbon emissions scenarios for year 2070; ~50 years from now) for 14 endemic foredune and backdune species, including charismatic 
