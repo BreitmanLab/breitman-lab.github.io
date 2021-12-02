@@ -13,7 +13,8 @@ applied questions (e.g. _“How do we delimit and monitor species?”_) about th
 processes in biodiversity 'hotspots' (e.g. defined [here](https://www.nature.com/articles/35002501)) takes us across the Americas, from the southeastern US to Central 
 America and South America. 
 
-Current research projects in the **"Bagley Lab"**, also known as the Ecological and Evolutionary Genetics Laboratory (EEGL) at [JSU](http://jsu.edu), center on 
+Current research projects in the **"Bagley Lab"** of ecology and evolution at [JSU](http://jsu.edu) center on 
+<!--, also known as the Ecological and Evolutionary Genetics Laboratory (EEGL) at [JSU](http://jsu.edu), center on -->
 conservation genomics, phylogeography, phylogenomics, speciation/hybridization, and local adaptation genomics of North American and Neotropical plants and freshwater 
 fishes. While our main area of organismal expertise is ichthyology and most projects focus on fishes, projects are diverse, ranging from Andean bellflowers to central Brazilian fishes, and they are strongly focused on analyzing genomic data (e.g. ddRAD-seq, 
 targeted sequence capture, and whole-genome sequence data) and species occurrences, although phenotypic data are also of interest. Questions about species, their 
@@ -161,6 +162,7 @@ While the lab has worked on a variety of organisms and a variety of 'pure'-scien
 
 -   Applying our expertise in phylogeography and genomics to conservation issues, e.g. see Conservation genomics project(s) below
 -   Development of wadeable and non-wadeable Index of Biotic Integrity (IBI) approaches for assessing state/regional waters
+-   Environmental niche modeling (ENM) to predict species past, present, and future distributions in response to climate change
 -   Environmental DNA (eDNA) metabarcoding of freshwater rivers and streams of Alabama and surrounding areas (e.g. Mobile basin extensions into Mississippi and Georgia)
 
 ### Conservation genomics
@@ -181,8 +183,17 @@ pictured below (_Photo courtesy of Dr. Pat O'Neil, GSA_).
 
 </div>
 
+
 <br>
 <br>
 
 </div>
 
+
+<div class="row">
+
+### Ecological niche modeling (ENM) of species responses to climate change
+
+We have growing expertise in the use of ENMs to predict suitable habitat for terrestrial and aquatic taxa
+
+</div>
