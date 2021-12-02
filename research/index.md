@@ -165,7 +165,9 @@ Our recent and on-going projects on southwestern white pine (_Pinus strobiformis
 <div class="row">
 
 # 2. Applied research
-While the lab has worked on a variety of organisms and a variety of 'pure'-science questions (e.g. projects above), we are also fundamentally interested in conducting applied research into questions of relevance to the biological assessment (e.g. biomonitoring, fisheries research), community ecology, and conservation of the diverse fish assemblages of Alabama and the southeastern US. We are working with state agencies to develop projects in this applied arena. Currently, we are most interested in 
+Organismally, Dr. Bagley is a professionally trained ichthyologist and he has been studying and publishing on freshwater fishes since 2006 (15 years of experience).
+
+Thus, while the lab has worked on a variety of organisms and many 'basic'-science questions (projects above), we are also fundamentally interested in conducting applied research into questions of relevance to the biological assessment (e.g. biomonitoring, fisheries research), community ecology, and conservation of the diverse fish assemblages of Alabama and the southeastern US. We are working with state agencies to develop projects in this applied arena. Currently, we are most interested in 
 
 -   Applying our expertise in phylogeography and genomics to conservation issues, e.g. see Conservation genomics project(s) below
 -   Development of wadeable and non-wadeable Index of Biotic Integrity (IBI) approaches for assessing state/regional waters
