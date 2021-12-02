@@ -15,7 +15,7 @@ email: kmorrow5 (at) stu.jsu.edu
 # linkedin: username
 # github: username
 # orcid: XXXX-XXXX-XXXX-XXXX
-description: "Kayla is currently a sophomore undergraduate student at JSU, where she is majoring in Biology. In the Bagley Lab, Kayla is interested in learning more about ecology, evolution, DNA sequencing, population genomics, and hybridization. Kayla is assisting as we get several projects started in the lab.
+description: "Kayla is currently a sophomore undergraduate student at JSU, where she is majoring in Biology. In the Bagley Lab, Kayla is interested in learning more about ecology, evolution, DNA sequencing, population genomics, and hybridization. Kayla is assisting with multiple projects, and her two main projects right now are (1) the [PhylogatR](https://phylogatr.org) Global Fish Project and (2) our ENM project predicting responses of Alabama's coastal dune plant species to global climate change.
 
 
 Outside of lab, Kayla enjoys being outdoors, keeping and breeding pythons and boas, modeling, and hanging out with friends and her dog, Titus."
