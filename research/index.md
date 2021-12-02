@@ -9,7 +9,7 @@ group: research
 # Our research
 We are **ecologists and evolutionary biologists** and our research focuses on integrating genomics, ecological/field data, and computer modeling to address problems in molecular ecology, 
 distributional ecology, conservation, and biodiversity science. Our research answers basic and applied questions about the ecology and evolution of freshwater and terrestrial organisms and 
-can broadly be divided into two categories: (1) Evolutionary Processes and (2) Applied Research. 
+can broadly be divided into **two categories: (1) Evolutionary Processes and (2) Applied Research.** 
 <!-- histories of species and populations. This work addresses basic questions (e.g. _“Why are there so many species?”_, _"How do species adapt to their environment?"_) and 
 applied questions (e.g. _“How do we delimit and monitor species?”_) about the ecology and evolution of freshwater and terrestrial organisms. -->
 Our research on evolutionary 
