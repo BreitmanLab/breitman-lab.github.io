@@ -7,24 +7,31 @@ group: research
 <div class="row">
 
 # Our research
-We are **ecologists and evolutionary biologists** and our research focuses on integrating genomics, ecological data, and computer modeling to reconstruct the evolutionary 
-histories of species and populations. This work addresses basic questions (e.g. _“Why are there so many species?”_, _"How do species adapt to their environment?"_) and 
-applied questions (e.g. _“How do we delimit and monitor species?”_) about the ecology and evolution of freshwater and terrestrial organisms. Our research on evolutionary 
-processes in biodiversity 'hotspots' (e.g. defined [here](https://www.nature.com/articles/35002501)) takes us across the Americas, from the southeastern US to Central 
-America and South America. 
+We are **ecologists and evolutionary biologists** and our research focuses on integrating genomics, ecological/field data, and computer modeling to address problems in molecular ecology, 
+distributional ecology, conservation, and biodiversity science. Our research answers basic and applied questions about the ecology and evolution of freshwater and terrestrial organisms and 
+can broadly be divided into two categories: (1) Evolutionary Processes and (2) Applied Research. 
+<!-- histories of species and populations. This work addresses basic questions (e.g. _“Why are there so many species?”_, _"How do species adapt to their environment?"_) and 
+applied questions (e.g. _“How do we delimit and monitor species?”_) about the ecology and evolution of freshwater and terrestrial organisms. -->
+Our research on evolutionary 
+processes focuses on biodiversity 'hotspots' (e.g. defined [here](https://www.nature.com/articles/35002501)) and takes us across the Americas, from the southeastern US to Central 
+America and South America. Our applied research focuses on two sub-areas: (i) ecological niche modeling (ENM) of ecological requirements (niches) to predict species past, present, and 
+future distributions, including species responses (e.g. distributional shifts) to climate change and human impacts, and (ii) biological assessment (e.g. biomonitoring) and community 
+ecology of the diverse fish assemblages of Alabama and the southeastern US.
 
 Current research projects in the **"Bagley Lab"** of ecology and evolution at [JSU](http://jsu.edu) center on 
 <!--, also known as the Ecological and Evolutionary Genetics Laboratory (EEGL) at [JSU](http://jsu.edu), center on -->
-conservation genomics, phylogeography, phylogenomics, speciation/hybridization, and local adaptation genomics of North American and Neotropical plants and freshwater 
-fishes. While our main area of organismal expertise is ichthyology and most projects focus on fishes, projects are diverse, ranging from Andean bellflowers to central Brazilian fishes, and they are strongly focused on analyzing genomic data (e.g. ddRAD-seq, 
+ecological niche modeling, conservation genomics, phylogeography, phylogenomics, speciation/hybridization, and local adaptation genomics of North American and Neotropical plants and freshwater 
+fishes and are described in more detail below. While our main area of organismal expertise is ichthyology and most projects focus on fishes, projects are diverse, ranging from Andean bellflowers to central Brazilian fishes. 
+<!-- , and they are strongly focused on analyzing genomic data (e.g. ddRAD-seq, 
 targeted sequence capture, and whole-genome sequence data) and species occurrences, although phenotypic data are also of interest. Questions about species, their 
-relationships, and their past, present, and future responses (e.g. distributional shifts) to climate change and human impacts are especially of interest.
+relationships, and their past, present, and future responses (e.g. distributional shifts) to climate change and human impacts are especially of interest. -->
 <br>
 <br>
 
 </div>
 
 <div class="row">
+# Evolutionary Processes
 
 ### Comparative phylogeography and phylogeographic meta-analyses
 
