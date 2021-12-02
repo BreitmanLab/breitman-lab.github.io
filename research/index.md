@@ -211,4 +211,9 @@ the niches and predicting present and future distributions (under climate and ca
 species such as sea oats (_Uniola paniculata_) as well as taxa that are lesser-known to the general public, such as sea purslane (_Sesuvium portulacastrum_) and Florida rosemary (_Ceratiola ericoides_). 
 We are grateful to the JSU Department of Biology and College of Science and Mathematics for funding and support of this project.
 
+<p align="center">
+	<!--<a href="https://www.outdooralabama.com/shiners/blue"> -->
+	<img class="img-fluid" src="/static/img/ENM_Spumilus_Spat_3panel_pic_curr_fut.png" alt="Blue Shiner" width="850"><!--</a>-->
+</p>
+
 </div>
