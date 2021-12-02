@@ -201,6 +201,11 @@ pictured below (_Photo courtesy of Dr. Pat O'Neil, GSA_).
 
 ### Ecological niche modeling (ENM) of species responses to climate change
 
-We are interested in applications of niche theory to questions about the actual and potential distributions of species in the past, present, and future, through ecological niche modeling (ENM). The ENM approach has many applications, and those that we find most exciting include its uses for predicting species responses to global climate change (GCC) and biodiversity assessment/accounting. Currently, Dr. Bagley has an ongoing project with students in his Ecology CURE course and in the Bagley Lab to predict the responses of Alabama's coastal dune plant species to GCC. We are reconstructing the niches and prediction present and future distributions (under climate and carbon emissions scenarios for year 2070; ~50 years from now) for 14 endemic foredune and backdune species, including charismatic species such as sea oats (_Uniola paniculata_) to lesser known species such as seapurselane (_Sesuvium portulacastrum_).
+We are interested in applications of niche theory to questions about the actual and potential distributions of species in the past, present, and future, through ecological niche modeling (ENM). 
+The ENM approach has many applications, and those that we find most exciting include its uses for predicting species responses to global climate change (GCC) and biodiversity assessment/accounting. 
+Currently, Dr. Bagley has an ongoing project with students in his Ecology CURE course and in the Bagley Lab to predict the responses of Alabama's coastal dune plant species to GCC. We are reconstructing 
+the niches and predicting present and future distributions (under climate and carbon emissions scenarios for year 2070; ~50 years from now) for 14 endemic foredune and backdune species, including charismatic 
+species such as sea oats (_Uniola paniculata_) as well as taxa that are lesser-known to the general public, such as sea purslane (_Sesuvium portulacastrum_) and Florida rosemary (_Ceratiola ericoides_). 
+We are grateful to the JSU Department of Biology and College of Science and Mathematics for funding and support of this project.
 
 </div>
