@@ -15,8 +15,6 @@ pdf: '/static/pdf/2021_calderon-acevedo_bagley_muchhala.pdf'
 # github:
 # - code: EMRinger
 #   url: fraser-lab/EMRinger
-# 
-# ALT / PubMed DOI: 10.1016/j.ympev.2021.107356 (could be more permanent than initial journal DOI?)
 links:
 - name: DOI
   url: https://doi.org/10.1016/j.ympev.2021.107356
