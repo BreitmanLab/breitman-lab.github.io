@@ -31,7 +31,7 @@ relationships, and their past, present, and future responses (e.g. distributiona
 </div>
 
 <div class="row">
-# Evolutionary Processes
+# 1. Evolutionary processes
 
 ### Comparative phylogeography and phylogeographic meta-analyses
 
@@ -164,7 +164,7 @@ Our recent and on-going projects on southwestern white pine (_Pinus strobiformis
 
 <div class="row">
 
-# Applied research
+# 2. Applied research
 While the lab has worked on a variety of organisms and a variety of 'pure'-science questions (e.g. projects above), we are also fundamentally interested in conducting applied research into questions of relevance to the biological assessment (e.g. biomonitoring, fisheries research), community ecology, and conservation of the diverse fish assemblages of Alabama and the southeastern US. We are working with state agencies to develop projects in this applied arena. Currently, we are most interested in 
 
 -   Applying our expertise in phylogeography and genomics to conservation issues, e.g. see Conservation genomics project(s) below
