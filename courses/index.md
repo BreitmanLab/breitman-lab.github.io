@@ -70,6 +70,8 @@ you in this class include for you to develop a deeper understanding of the why a
 become more adept at actively and creatively thinking and communicating about systematics; and for you 
 to be inspired to apply methods of systematics to research questions that you are interested in.
 
+<br/>
+
 # Bagley Lab Courses
 
 ### [PhylogatR](https://phylogatr.org) Training Course
