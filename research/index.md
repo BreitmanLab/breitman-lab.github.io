@@ -9,7 +9,7 @@ group: research
 # Our research
 We are **ecologists and evolutionary biologists** and our research focuses on integrating genomics, ecological/field data, and computer modeling to address problems in molecular ecology, 
 distributional ecology, conservation, and biodiversity science. Our research answers basic and applied questions about the ecology and evolution of freshwater and terrestrial organisms and 
-can broadly be divided into **two categories: (1) Evolutionary Processes and (2) Applied Research.** 
+can broadly be divided into **two categories: (1) Evolutionary Processes and (2) Applied Ecological Research.** 
 <!-- histories of species and populations. This work addresses basic questions (e.g. _“Why are there so many species?”_, _"How do species adapt to their environment?"_) and 
 applied questions (e.g. _“How do we delimit and monitor species?”_) about the ecology and evolution of freshwater and terrestrial organisms. -->
 Our research on evolutionary 
@@ -164,7 +164,7 @@ Our recent and on-going projects on southwestern white pine (_Pinus strobiformis
 
 <div class="row">
 
-# 2. Applied research
+# 2. Applied ecological research
 Organismally, Dr. Bagley is a professionally trained ichthyologist and he has been studying and publishing on freshwater fishes since 2006 (15 years of experience).
 
 Thus, while the lab has worked on a variety of organisms and many 'basic'-science questions (projects above), we are also fundamentally interested in conducting applied research into questions of relevance to the biological assessment (e.g. biomonitoring, fisheries research), community ecology, and conservation of the diverse fish assemblages of Alabama and the southeastern US. We are working with state agencies to develop projects in this applied arena. Currently, we are most interested in 
