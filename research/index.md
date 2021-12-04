@@ -14,8 +14,8 @@ can broadly be divided into **two categories: (1) Evolutionary Processes and (2)
 applied questions (e.g. _“How do we delimit and monitor species?”_) about the ecology and evolution of freshwater and terrestrial organisms. -->
 Our research on evolutionary 
 processes focuses on biodiversity 'hotspots' (e.g. defined [here](https://www.nature.com/articles/35002501)) and takes us across the Americas, from the southeastern US to Central 
-America and South America. Our applied research focuses on two sub-areas: (i) ecological niche modeling (ENM) of ecological requirements (niches) to predict species past, present, and 
-future distributions, including species responses (e.g. distributional shifts) to climate change and human impacts, and (ii) biological assessment (e.g. biomonitoring) and community 
+America and South America. Our applied research focuses on three sub-areas: (i) ecological niche modeling (ENM) of ecological requirements (niches) to predict species past, present, and 
+future distributions, including species responses (e.g. distributional shifts) to climate change and human impacts; (ii) conservation genomics of threatened and endangered species; and (iii) biological assessment (e.g. biomonitoring) and community 
 ecology of the diverse fish assemblages of Alabama and the southeastern US.
 
 Current research projects in the **"Bagley Lab"** of ecology and evolution at [JSU](http://jsu.edu) center on 
