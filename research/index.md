@@ -188,6 +188,7 @@ pictured below (_Photo courtesy of Dr. Pat O'Neil, GSA_).
 <p align="center">
 	<a href="https://www.outdooralabama.com/shiners/blue">
 	<img class="img-fluid" src="/static/img/Shinerblue400A.jpg" alt="Blue Shiner" width="450"></a>
+	Blue Shiner
 </p>
 
 </div>
@@ -213,7 +214,7 @@ We are grateful to the JSU Department of Biology and College of Science and Math
 
 <p align="center">
 	<!--<a href="https://www.outdooralabama.com/shiners/blue"> -->
-	<img class="img-fluid" src="/static/img/ENM_Spumilus_Spat_3panel_pic_curr_fut.png" alt="Blue Shiner" width="850"><!--</a>-->
+	<img class="img-fluid" src="/static/img/ENM_Spumilus_Spat_3panel_pic_curr_fut.png" alt="ENM results for saltmeadow cordgrass (Sporobolus pumilus)." width="850"><!--</a>-->
 </p>
-
+ENM results for saltmeadow cordgrass (<em>Sporobolus pumilus</em>) predicting the species distribution (suitable habitat) under current (<em>left</em>) and future (<em>right</em>) conditions.
 </div>
