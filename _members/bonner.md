@@ -15,8 +15,8 @@ twitter: rachel_bonner2
 # linkedin: username
 # github: username
 # orcid: XXXX-XXXX-XXXX-XXXX
-description: "Rachel is a junior undergraduate student at JSU, where she is majoring in Biology and is on the pre-med track. In the Bagley Lab, Rachel works on applying techniques in ecological niche modeling to predict the past, present, and future distributional areas of species. She has been working on ENM of _Hydrocotyle bonariensis_ Comm. ex Lam., a perennial flowering plant with a creeping habit from family Araliaceae that is native to dunes and other coastal areas around the globe, including sandy dunes of the southeastern US. Rachel's work is inserted within a broader ENM project predicting responses of Alabama's coastal dune plant species to global climate change.
+description: "Rachel is a junior undergraduate student at JSU, where she is majoring in Biology and is on the pre-med track. In the Bagley Lab, Rachel works on applying techniques in ecological niche modeling to predict the past, present, and future distributional areas of species. She has been working on ENM of largeleaf pennywort [_Hydrocotyle bonariensis_ Comm. ex Lam.](https://www.gbif.org/species/3034611), a perennial flowering plant with a creeping habit from family [Araliaceae](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/araliaceae) that is native to dunes and other coastal areas around the globe, including sandy dunes of the southeastern US. Rachel's work is inserted within a broader ENM project predicting responses of Alabama's coastal dune plant species to global climate change.
 
 
-Outside of lab, Rachel enjoys hanging out with family and friends and her dog, Lucy."
+Outside of lab, Rachel enjoys hiking and hanging out with family and friends and her dog, Lucy."
 ---
