@@ -5,7 +5,7 @@ layout: post
 group: news
 ---
  
-This month, we welcomed two new undergraduate students to our group: Macee Glick and Kayla Morrow. Macee and Kayla are both undergraduate students and Alabama natives, and they are interested in learning more about the research we do and what is involved in the process of science from our viewpoint. 
+This month, we welcomed two new undergraduate students to our group: **Macee Glick and Kayla Morrow**. Macee and Kayla are both undergraduate students and Alabama natives, and they are interested in learning more about the research we do and what is involved in the process of science from our viewpoint. 
 
 Currently, they are participating in lab meetings and assisting with ongoing projects/project development. In lab meetings, we are reading about genomic reduction methods for NGS (e.g. ddRAD-seq, DArT-seq) and empirical applications of these methods to address questions in population genomics and phylogeography. 
 
