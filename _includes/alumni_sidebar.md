@@ -111,6 +111,7 @@ Subsequently: {{undergraduate.subsequent}}<br>
 </div> {% endfor %}
 
 
+<!-- 
 <br>
 ## [SEP High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
 {% for student in sorted %}
@@ -145,7 +146,7 @@ Subsequently: {{student.subsequent}}<br>
 {% endif %}
 </p>
 </div> {% endfor %}
-
+-->
 
 <br>
 ## Bagley Lab Visitors
